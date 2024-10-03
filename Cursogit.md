@@ -1,0 +1,9 @@
+- Iniciar Repositorio --> git init
+- Abrir Terminal en Vs Code
+- Ver Estado --> git status
+- Crear Usuario --> git config --global user.name "Tu nombre" de github
+- Crear Correo --> git config --global user.email "tu@email.com"
+- Mostrar Cuenta de Usuario --> git config --list
+- Mostrar Usuario y Correo 
+- --> git config user.name
+- --> git config user.email
